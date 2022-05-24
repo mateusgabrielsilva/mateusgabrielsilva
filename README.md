@@ -1,7 +1,7 @@
 ## Olá! Eu sou O_Mateus Gabriel 
 
 
-- 🔭 Hoje trabalho como Gestor de Projetos
+- 🔭 Hoje trabalho como Coordenador de Projetos
 - 🌱 Estudando as tecnologias JS / React, Node, React Native
 
 <div>
